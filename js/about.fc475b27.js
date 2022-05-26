@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkboard"]=self["webpackChunkboard"]||[]).push([[443],{4335:function(n,a,r){r.r(a),r.d(a,{default:function(){return d}});var u=r(3396);const t={class:"about"},e=(0,u._)("h1",null,"This is an about page",-1),s=[e];function c(n,a){return(0,u.wg)(),(0,u.iD)("div",t,s)}var o=r(89);const i={},b=(0,o.Z)(i,[["render",c]]);var d=b}}]);
+//# sourceMappingURL=about.fc475b27.js.map
